@@ -1,0 +1,101 @@
+image_id,image_url,scene_type,image_width,image_height,annotations_count,n_gt_annotations,n_gt_identified,n_distinct_sku
+img_000,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_000.jpg,Main aisle,2832,4096,158,92,60,42
+img_001,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_001.jpg,Main aisle,2832,4096,85,48,35,28
+img_002,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_002.jpg,Secondary display,2832,4096,94,61,38,20
+img_003,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_003.jpg,Shelf,2832,4096,131,88,57,28
+img_004,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_004.jpg,Secondary display,2832,4096,52,42,29,10
+img_005,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_005.jpg,Shelf,2832,4096,86,53,32,20
+img_006,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_006.jpg,Shelf,2832,4096,86,53,33,21
+img_007,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_007.jpg,Shelf,2832,4096,86,53,33,21
+img_008,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_008.jpg,Shelf,2832,4096,89,62,47,16
+img_009,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_009.jpg,Secondary display,2168,4096,65,45,38,12
+img_010,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_010.jpg,Secondary display,2832,4096,88,60,43,17
+img_011,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_011.jpg,Secondary display,2832,4096,104,86,59,10
+img_012,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_012.jpg,Secondary display,2832,4096,96,83,55,10
+img_013,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_013.jpg,Secondary display,2168,4096,52,39,37,11
+img_014,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_014.jpg,Main aisle,2832,4096,86,55,34,22
+img_015,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_015.jpg,Secondary display,2014,4096,34,23,15,9
+img_016,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_016.jpg,Main aisle,2233,4096,130,82,57,40
+img_017,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_017.jpg,Main aisle,2832,4096,76,43,38,27
+img_018,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_018.jpg,Secondary display,2832,4096,70,47,37,20
+img_019,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_019.jpg,Shelf,2832,4096,103,70,55,28
+img_020,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_020.jpg,Secondary display,2754,4096,39,33,33,7
+img_021,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_021.jpg,Shelf,2014,4096,97,68,50,18
+img_022,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_022.jpg,Shelf,2014,4096,97,68,48,16
+img_023,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_023.jpg,Shelf,2014,4096,97,68,48,16
+img_024,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_024.jpg,Shelf,2832,4096,89,62,47,16
+img_025,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_025.jpg,Secondary display,2168,4096,60,46,35,9
+img_026,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_026.jpg,Secondary display,2832,4096,66,62,62,9
+img_027,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_027.jpg,Secondary display,2754,4096,63,56,53,7
+img_028,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_028.jpg,Main aisle,2832,4096,124,70,50,39
+img_029,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_029.jpg,Main aisle,2832,4096,155,111,64,25
+img_030,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_030.jpg,Secondary display,2832,4096,81,57,50,19
+img_031,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_031.jpg,Shelf,2007,4096,87,57,49,26
+img_032,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_032.jpg,Secondary display,2832,4096,39,27,19,7
+img_033,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_033.jpg,Shelf,2832,4096,79,56,40,15
+img_034,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_034.jpg,Shelf,2832,4096,79,56,40,14
+img_035,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_035.jpg,Shelf,2832,4096,79,56,40,15
+img_036,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_036.jpg,Shelf,2832,4096,89,62,47,16
+img_037,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_037.jpg,Main aisle,2832,4096,114,62,48,39
+img_038,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_038.jpg,Main aisle,2832,4096,91,54,40,25
+img_039,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_039.jpg,Secondary display,2014,4096,78,54,43,19
+img_040,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_040.jpg,Shelf,2832,4096,115,87,67,21
+img_041,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_041.jpg,Secondary display,2832,4096,34,23,18,7
+img_042,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_042.jpg,Shelf,2832,4096,68,41,25,15
+img_043,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_043.jpg,Main aisle,2832,4096,134,79,61,38
+img_044,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_044.jpg,Main aisle,2832,4096,53,39,35,25
+img_045,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_045.jpg,Secondary display,2832,4096,70,48,41,19
+img_046,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_046.jpg,Shelf,2832,4096,90,55,37,18
+img_047,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_047.jpg,Main aisle,2832,4096,105,57,50,38
+img_048,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_048.jpg,Main aisle,2832,4096,67,37,31,25
+img_049,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_049.jpg,Secondary display,2832,4096,78,57,51,18
+img_050,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_050.jpg,Shelf,2832,4096,121,86,56,17
+img_051,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_051.jpg,Main aisle,2832,4096,157,86,53,37
+img_052,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_052.jpg,Main aisle,2754,4096,65,57,44,24
+img_053,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_053.jpg,Secondary display,2832,4096,88,60,44,18
+img_054,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_054.jpg,Shelf,2832,4096,99,69,49,17
+img_055,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_055.jpg,Main aisle,2149,4096,111,69,52,37
+img_056,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_056.jpg,Main aisle,2832,4096,91,58,42,24
+img_057,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_057.jpg,Secondary display,2832,4096,81,55,44,18
+img_058,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_058.jpg,Shelf,2832,4096,80,58,49,17
+img_059,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_059.jpg,Main aisle,2007,4096,100,58,52,37
+img_060,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_060.jpg,Main aisle,2832,4096,75,46,40,24
+img_061,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_061.jpg,Secondary display,2014,4096,87,64,53,17
+img_062,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_062.jpg,Shelf,2007,4096,70,53,52,16
+img_063,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_063.jpg,Main aisle,2832,4096,107,58,50,37
+img_064,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_064.jpg,Main aisle,2832,4096,80,52,38,24
+img_065,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_065.jpg,Secondary display,2832,4096,75,48,42,17
+img_066,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_066.jpg,Shelf,2007,4096,74,55,51,16
+img_067,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_067.jpg,Main aisle,2149,4096,110,60,47,36
+img_068,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_068.jpg,Main aisle,2832,4096,86,53,46,23
+img_069,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_069.jpg,Secondary display,2014,4096,69,48,42,17
+img_070,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_070.jpg,Shelf,2832,4096,71,53,48,16
+img_071,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_071.jpg,Main aisle,2832,4096,105,58,47,36
+img_072,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_072.jpg,Main aisle,2832,4096,78,54,43,23
+img_073,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_073.jpg,Secondary display,2832,4096,67,47,42,17
+img_074,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_074.jpg,Shelf,2007,4096,42,30,21,8
+img_075,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_075.jpg,Main aisle,2832,4096,103,55,46,36
+img_076,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_076.jpg,Main aisle,2832,4096,76,44,39,23
+img_077,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_077.jpg,Secondary display,2014,4096,80,51,33,17
+img_078,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_078.jpg,Main aisle,2881,4096,97,50,44,36
+img_079,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_079.jpg,Main aisle,2881,4096,75,47,38,23
+img_080,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_080.jpg,Secondary display,2832,4096,68,45,36,16
+img_081,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_081.jpg,Main aisle,2832,4096,123,74,58,34
+img_082,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_082.jpg,Main aisle,2832,4096,82,49,37,23
+img_083,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_083.jpg,Secondary display,2832,4096,51,27,23,15
+img_084,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_084.jpg,Main aisle,2149,4096,97,61,51,34
+img_085,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_085.jpg,Main aisle,2832,4096,100,61,36,23
+img_086,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_086.jpg,Secondary display,2014,4096,86,57,37,14
+img_087,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_087.jpg,Main aisle,2832,4096,117,70,49,34
+img_088,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_088.jpg,Main aisle,2832,4096,77,49,36,23
+img_089,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_089.jpg,Secondary display,2832,4096,83,63,36,11
+img_090,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_090.jpg,Main aisle,2832,4096,138,79,47,34
+img_091,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_091.jpg,Main aisle,2149,4096,64,39,36,23
+img_092,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_092.jpg,Secondary display,2832,4096,66,62,62,9
+img_093,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_093.jpg,Main aisle,2832,4096,109,62,49,33
+img_094,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_094.jpg,Main aisle,2832,4096,71,41,33,23
+img_095,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_095.jpg,Secondary display,2014,4096,65,44,25,8
+img_096,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_096.jpg,Main aisle,2832,4096,104,54,45,33
+img_097,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_097.jpg,Main aisle,2832,4096,66,41,28,23
+img_098,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_098.jpg,Secondary display,2149,4096,51,39,22,8
+img_099,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/images/img_099.jpg,Main aisle,2832,4096,100,53,44,33

@@ -1,0 +1,11 @@
+# Convenience only — use whatever you like. Pins chosen to avoid known breakage.
+pillow>=10
+requests>=2.31
+numpy>=1.26
+pandas>=2.0
+fastapi>=0.110
+uvicorn>=0.29
+# If you go the embedding-retrieval route:
+#   torch>=2.2
+#   open-clip-torch>=2.24        # or: transformers>=4.40,<5   (5.x changed get_image_features -> object, not tensor)
+# If you go the VLM route: your provider's SDK (anthropic / google-genai / openai).

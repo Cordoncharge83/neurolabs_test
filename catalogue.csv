@@ -1,0 +1,321 @@
+sku_id,name,barcode,brand,flavour,size,containerType,packagingSize,height,width,depth,thumbnail_url,status
+sku_0001,Barny Chocolate Sponge Bears 125g,7622201416140,Barny,Chocolate,125 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0001.jpg,ONBOARDED
+sku_0002,Barny Milk Sponge Bears 125g,7622201416119,Barny,Milk,125 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0002.jpg,ONBOARDED
+sku_0003,Bassetts Murray Mints 193g,7622210464477,Bassetts,Mint,193 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0003.jpg,ONBOARDED
+sku_0004,MAYNARDS BASSETTS SHERBET LEMONS 192G,5023274043189,Bassetts,Lemon,192 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0004.jpg,ONBOARDED
+sku_0005,BEL 540G HONEY NUT 5CA,7622202019135,Belvita,Honey & Nut,540 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0005.jpg,ONBOARDED
+sku_0006,Belvita Breakfast 5 Pack Honey & Nuts 225g,7622202019265,Belvita,Honey & Nuts,225 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0006.jpg,ONBOARDED
+sku_0007,BELVITA BREAKFAST COCOA CHOC CHIP  225G 7658910,7622210740427,Belvita,Cocoa,225 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0007.jpg,ONBOARDED
+sku_0008,Belvita Choc Chip Reduced Sugar 225g,7622210689382,Belvita,"Chocolate Chips, Less Sugar",225 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0008.jpg,ONBOARDED
+sku_0009,BELVITA COOKIES HONEY & NUT 50G 8201053,7622202019166,Belvita,Honey & Nut,50 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0009.jpg,ONBOARDED
+sku_0010,Belvita Cookies Milk & Cereal 225g,7622202018701,Belvita,Milk & Cereal,225 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0010.jpg,ONBOARDED
+sku_0011,Belvita Duo Crunch Strawberry 253g,7622210020130,Belvita,Strawberry Yogurt,253 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0011.jpg,ONBOARDED
+sku_0012,BELVITA DUO STRAWBERRY YOGURT BISCUIT 50.6G,7622210296085,Belvita,Strawberry & Yogurt,50.6 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0012.jpg,ONBOARDED
+sku_0013,BELVITA GOLDEN OAT COOKIE 225G 8206040,7622210740458,Belvita,Golden oats,225 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0013.jpg,ONBOARDED
+sku_0014,Belvita Live Yogurt Crunch 253g,7622300624859,Belvita,Yogurt Crunch,253 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0014.jpg,ONBOARDED
+sku_0015,Belvita Milk and Cereal 540g,7622202018671,Belvita,Milk & Cereal,540 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0015.jpg,ONBOARDED
+sku_0016,Belvita Soft Bake Apricot 5pk 250g,7622201447472,Belvita,Apricot,250 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0016.jpg,ONBOARDED
+sku_0017,Belvita Soft Bake Blueberry 250g,7622201766375,Belvita,Blueberry,250 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0017.jpg,ONBOARDED
+sku_0018,Belvita Soft Bake Choc Chip 250g,7622202232633,Belvita,Choc Chip,250 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0018.jpg,ONBOARDED
+sku_0019,BELVITA SOFT BAKE CHOC CHIP 50G 8202225,7622202233166,Belvita,Choc Chips,50 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0019.jpg,ONBOARDED
+sku_0020,Belvita Soft Bake Choco Hazelnut 250g,7622202230998,Belvita,Choco Hazelnut,250 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0020.jpg,ONBOARDED
+sku_0021,Belvita Soft Bake Red Berries 250g,7622201766344,Belvita,Red Berries,250 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0021.jpg,ONBOARDED
+sku_0022,BELVITA SOFT BAKES GOLDEN GRAIN 250G 8160335,7622201766405,Belvita,Golden oats,250 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0022.jpg,ONBOARDED
+sku_0023,Belvita Soft Bake Strawberry 250g,7622210695406,Belvita,Strawberry,250 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0023.jpg,ONBOARDED
+sku_0024,Bitsa Wispa 185.5g,7622201746445,Bitsa Wispa,Milk chocolate,185.5 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0024.jpg,ONBOARDED
+sku_0025,Bitsa Wispa Bag 100g,7622202264481,Bitsa Wispa,Milk chocolate,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0025.jpg,ONBOARDED
+sku_0026,CADBURY BITSA WISPA BAG 85G,7622202210563,Bitsa Wispa,Milk chocolate,85 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0026.jpg,ONBOARDED
+sku_0027,Brunch Bar Bournville 5 pack 140g,7622202219245,Bournville Brunch,Choc Chip,140 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0027.jpg,ONBOARDED
+sku_0028,Cadbury Brunch Light Oat & Honey 5pk 130g,7622202029394,Brunch Light,"Oat & Honey, Light",130 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0028.jpg,ONBOARDED
+sku_0029,Cadbury Brunch Light Orange 5pk 130g,7622202030192,Brunch Light,"Orange, Light",130 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0029.jpg,ONBOARDED
+sku_0030,Boost 4 Pack 148g,7622201460822,Cadbury,"Milk chocolate, Caramel",148 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0030.jpg,ONBOARDED
+sku_0031,Bournville 180g,7622210249661,Cadbury,Dark chocolate,180 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0031.jpg,ONBOARDED
+sku_0032,Bournville Giant Buttons 100g,7622202258213,Cadbury,Milk chocolate,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0032.jpg,ONBOARDED
+sku_0033,CAD 110G 5PK FUDGE 20CA MERLIN,7622201436001,Cadbury,"Milk chocolate, Fudge",110 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0033.jpg,ONBOARDED
+sku_0034,CAD 120G OREO WHITE 17CA,7622201121037,Cadbury,Oreo,120 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0034.jpg,ONBOARDED
+sku_0035,CAD 156G CRUNCHY MELTS CHOC 12CA,7622210764744,Cadbury,Crunchy cookies,156 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0035.jpg,ONBOARDED
+sku_0036,CAD 207G FAM TSIZE 14CA,7622202204173,Cadbury,Treatsize,207 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0036.jpg,ONBOARDED
+sku_0037,CAD 28G INSTANTS STICK PACK 30CA,96033180,Cadbury,Chocolate,28 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0037.jpg,ONBOARDED
+sku_0038,CAD 48G PICNIC 36CA,5000312002131,Cadbury,Milk chocolate,48 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0038.jpg,ONBOARDED
+sku_0039,CAD 54.5g DOUBLE DECKER 48CA,7622210106421,Cadbury,"Cereal, Nougat",54.5 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0039.jpg,ONBOARDED
+sku_0040,CAD 74.6G DUO DBLE DECKER 32CA,7622201439095,Cadbury,"Cereal, Nougat",74.6 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0040.jpg,ONBOARDED
+sku_0041,CAD 78G MLK TRAY 22CA,7622201726003,Cadbury,Milk chocolate,78 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0041.jpg,ONBOARDED
+sku_0042,CADBURY 216G 12PK TIMEOUT 13CA 8207669,7622202218811,Cadbury,Milk chocolate,216 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0042.jpg,ONBOARDED
+sku_0043,CADBURY BOOST 48.5G 48CA,5034660522782,Cadbury,"Milk chocolate, Caramel",48.5 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0043.jpg,ONBOARDED
+sku_0044,Cadbury Boost Duo 63g,7622201460792,Cadbury,"Milk chocolate, Caramel",63 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0044.jpg,ONBOARDED
+sku_0045,Cadbury Caramilk 160g,7622201641382,Cadbury,Golden caramel chocolate,160 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0045.jpg,ONBOARDED
+sku_0046,Cadbury Caramilk Buttons 100g,7622202258589,Cadbury,Golden caramel chocolate,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0046.jpg,ONBOARDED
+sku_0047,CADBURY CARAMILK CRISP 85G 8174880,7622201388775,Cadbury,"Golden caramel chocolate, Crisped rice",85 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0047.jpg,ONBOARDED
+sku_0048,Cadbury Chocolate Bars Variety Pack,7622202265983,Cadbury,"Value Pack, Wispa, Crunchie, Boost",347.2 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0048.jpg,ONBOARDED
+sku_0049,CADBURY CRUNCHIE 7PK 182.7G,7622202229190,Cadbury,Milk chocolate,182.7 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0049.jpg,ONBOARDED
+sku_0050,CADBURY CRUNCHIE 9 PACK 235G,7622210989482,Cadbury,Milk chocolate,235 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0050.jpg,ONBOARDED
+sku_0051,CADBURY CURLYWURLY 21.5G,7622201143480,Cadbury,"Milk chocolate, Caramel",21.5 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0051.jpg,ONBOARDED
+sku_0052,CADBURY CURLY WURLY MULTIPACK 5PK 8152396,7622201427252,Cadbury,"Milk chocolate, Caramel",107.5 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0052.jpg,ONBOARDED
+sku_0053,CADBURY CURLY WURLY SQUIRLIES 100G 7857478,7622202259463,Cadbury,"Milk chocolate, Caramel",100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0053.jpg,ONBOARDED
+sku_0054,CADBURY DARK MILK 90G 7958457,7622201700294,Cadbury,Dark milk,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0054.jpg,ONBOARDED
+sku_0055,Cadbury Darkmilk Giant Buttons 100g,7622202258398,Cadbury,Darkmilk,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0055.jpg,ONBOARDED
+sku_0056,Cadbury Delights Hazelnut 110g,7622201729080,Cadbury,Hazelnut,110 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0056.jpg,ONBOARDED
+sku_0057,Cadbury Delights Orange 110g,7622201700430,Cadbury,Orange & Caramel,110 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0057.jpg,ONBOARDED
+sku_0058,Cadbury Delights Salted Caramel 110g,7622201700416,Cadbury,Salted Caramel,110 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0058.jpg,ONBOARDED
+sku_0059,CADBURY DOUBLE DECKER 4 BARS 174.8G,7622201439194,Cadbury,"Cereal, Nougat",174.8 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0059.jpg,ONBOARDED
+sku_0060,Cadbury Double Decker 7 pack 261.1g,7622202038815,Cadbury,"Cereal, Nougat",261.1 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0060.jpg,ONBOARDED
+sku_0061,Cadbury Fingers 114g,072417161575,Cadbury,Milk chocolate,114 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0061.jpg,ONBOARDED
+sku_0062,CADBURY FLAKE 99 14S 114G,7622201150785,Cadbury,Chocolate,114 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0062.jpg,ONBOARDED
+sku_0063,CADBURY FREDDO CARAMEL MULTIPACK 5PK 8152238,7622210295767,Cadbury,Caramel,94.5 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0063.jpg,ONBOARDED
+sku_0064,CADBURY FRUITIER & NUTTIER BAR 40G,7622202223020,Cadbury,Fruits and Nuts,40 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0064.jpg,ONBOARDED
+sku_0065,CADBURY FUDGE MINIS 100G,7622202258299,Cadbury,"Milk chocolate, Fudge",100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0065.jpg,ONBOARDED
+sku_0066,CADBURY GIANT BUTTONS POUCH 85G,7622202212369,Cadbury,Milk chocolate,85 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0066.jpg,ONBOARDED
+sku_0067,Cadbury Heroes Tub 550g,7622201734848,Cadbury,Heroes,550 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0067.jpg,ONBOARDED
+sku_0068,Cadbury Highlights Milk Choc 180g,7622202023804,Cadbury,Milk Choc,180 g,Jar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0068.jpg,ONBOARDED
+sku_0069,Cadbury Instant Hot Chocolate 300g,7622201747558,Cadbury,Chocolate,300 g,Jar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0069.jpg,ONBOARDED
+sku_0070,CADBURY MEGA BUTTONS CHOC BAG 192G 8161951,7622201517939,Cadbury,Milk chocolate,192 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0070.jpg,ONBOARDED
+sku_0071,Cadbury Milk Tray 530g,7622201726065,Cadbury,Milk,530 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0071.jpg,ONBOARDED
+sku_0072,Cadbury Mini Animals Biscuits 99.5g,7622202050749,Cadbury,"Biscuit, Milk chocolate",99.5 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0072.jpg,ONBOARDED
+sku_0073,Cadbury Mini Fingers 96.5g,7622202050763,Cadbury,Milk chocolate,95.5 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0073.jpg,ONBOARDED
+sku_0074,Cadbury Nibbly Fingers 125g,7622210817532,Cadbury,"Crisp biscuit, Milk chocolate",125 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0074.jpg,ONBOARDED
+sku_0075,CADBURY PLANT BAR 90G 8096082,7622201498795,Cadbury,Almonds,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0075.jpg,ONBOARDED
+sku_0076,CADBURY SALTED CARAMEL FINGERS 114G 8154400,7622201765804,Cadbury,Salted caramel,114 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0076.jpg,ONBOARDED
+sku_0077,CADBURYS DRINKING CHOC 250G,5034660021537,Cadbury,Chocolate,250 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0077.jpg,ONBOARDED
+sku_0078,CADBURY'S FLAKE SINGLE BAR,50201013,Cadbury,Chocolate,32 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0078.jpg,ONBOARDED
+sku_0079,Cadbury’s Heroes 270g,7622202274725,Cadbury,Heroes,270 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0079.jpg,ONBOARDED
+sku_0080,Cadbury Snack Shortcake 6 Pack 120g,7622210809025,Cadbury,Milk chocolate,120 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0080.jpg,ONBOARDED
+sku_0081,Cadbury Starbar Duo 74g,7622201746742,Cadbury,"Milk chocolate, Caramel",74 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0081.jpg,ONBOARDED
+sku_0082,CADBURY TIME OUT ROUNDIE 150G 8175005,7622201384487,Cadbury,Milk chocolate,150 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0082.jpg,ONBOARDED
+sku_0083,Cadbury Top Deck bar 110g,7622202027734,Cadbury,"Milk chocolate, White chocolate",110 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0083.jpg,ONBOARDED
+sku_0084,CADBURY TREATSIZE 12PK 223G,7622202248306,Cadbury,Treatsize,223 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0084.jpg,ONBOARDED
+sku_0085,Cadbury White Buttons 100g,7622202258121,Cadbury,White chocolate,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0085.jpg,ONBOARDED
+sku_0086,CADBURY WHITE CHOCOLATE 180G 8028603,7622202311154,Cadbury,White Chocolate,180 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0086.jpg,ONBOARDED
+sku_0087,Cadbury White Chocolate Fingers 114g,7622201450335,Cadbury,White chocolate,114 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0087.jpg,ONBOARDED
+sku_0088,CADBURY WHITE MEGA BUTTONS 192G,7622201394301,Cadbury,White chocolate,192 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0088.jpg,ONBOARDED
+sku_0089,Cadbury Wispa 7 pack 165.9g,7622202039102,Cadbury,Milk chocolate,165.9 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0089.jpg,ONBOARDED
+sku_0090,Cadbury Wispa Duo 47.4g,7622201461232,Cadbury,Milk chocolate,47.4 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0090.jpg,ONBOARDED
+sku_0091,CAD SGL FUDGE 22G 60CA,57030609,Cadbury,"Milk chocolate, Fudge",22 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0091.jpg,ONBOARDED
+sku_0092,CARAMILK BLOCK 90G 8082244,7622201800475,Cadbury,Golden caramel chocolate,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0092.jpg,ONBOARDED
+sku_0093,CHOCO SANDWICH 260G,7622210830883,Cadbury,Chocolate,260 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0093.jpg,ONBOARDED
+sku_0094,Crunchie 40g,5000201468611,Cadbury,Milk chocolate,40 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0094.jpg,ONBOARDED
+sku_0095,Crunchie 4 Pack 128g,7622210255396,Cadbury,Milk chocolate,128 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0095.jpg,ONBOARDED
+sku_0096,Crunchie Bits 180g,7622201148973,Cadbury,Milk chocolate,180 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0096.jpg,ONBOARDED
+sku_0097,Crunchie Rocks 100g,7622202257964,Cadbury,"Milk chocolate, Crunchy honeycomb",100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0097.jpg,ONBOARDED
+sku_0098,Curly Wurly 4 pack 86g,7622202256769,Cadbury,"Milk chocolate, Caramel",86 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0098.jpg,ONBOARDED
+sku_0099,DAIM 200G MINI STANDUP POUCH 18CA,7622210303646,Cadbury,"Milk chocolate, Almond caramel",200 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0099.jpg,ONBOARDED
+sku_0100,Daim 3 Pack 84g,7622300476236,Cadbury,"Milk chocolate, Almond caramel",84 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0100.jpg,ONBOARDED
+sku_0101,Drinking Chocolate 500g,5034660021582,Cadbury,Chocolate,500 g,Cylinder,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0101.jpg,ONBOARDED
+sku_0102,Eclairs 130g,7622210117779,Cadbury,"Caramels, Milk chocolate",130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0102.jpg,ONBOARDED
+sku_0103,Flake 4 Pack 102g,5034660520245,Cadbury,Chocolate,102 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0103.jpg,ONBOARDED
+sku_0104,Fudge 4 pack 88g,7622202256783,Cadbury,"Milk chocolate, Fudge",88 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0104.jpg,ONBOARDED
+sku_0105,Heroes Carton 290g,7622210959874,Cadbury,Heroes,290 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0105.jpg,ONBOARDED
+sku_0106,Highlights Chocolate Stick Pack 11g,96033197,Cadbury,Milk Choc,11 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0106.jpg,ONBOARDED
+sku_0107,Milk Tray 340g,7622201725976,Cadbury,Milk,340 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0107.jpg,ONBOARDED
+sku_0108,Mini Eggs Egg 232g,7622201680947,Cadbury,Milk chocolate,232 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0108.jpg,ONBOARDED
+sku_0109,Oreo Crunchy Bites Original 100g,7622202258602,Cadbury,Milk chocolate,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0109.jpg,ONBOARDED
+sku_0110,Picnic 4 Pack 152g,7622210989277,Cadbury,Milk chocolate,152 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0110.jpg,ONBOARDED
+sku_0111,Roses Carton 290g,7622210959850,Cadbury,"Nuts, toffee, fudge and caramels",290 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0111.jpg,ONBOARDED
+sku_0112,Starbar 49g,5034660522775,Cadbury,"Milk chocolate, Caramel",49 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0112.jpg,ONBOARDED
+sku_0113,Starbar Multipack 148g,7622201765446,Cadbury,"Milk chocolate, Caramel",148 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0113.jpg,ONBOARDED
+sku_0114,Timeout 6 Pack 108g,7622202224201,Cadbury,Milk chocolate,108 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0114.jpg,ONBOARDED
+sku_0115,Timeout Orange 6 Pack 108g,7622202224737,Cadbury,"Orange, Milk chocolate",108 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0115.jpg,ONBOARDED
+sku_0116,White,,Cadbury,White Chocolate,180 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0116.jpg,ONBOARDED
+sku_0117,Wispa 36g,7622210470126,Cadbury,Milk chocolate,36 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0117.jpg,ONBOARDED
+sku_0118,Wispa 4 Pack 111.6g,7622201460693,Cadbury,Milk chocolate,111.6 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0118.jpg,ONBOARDED
+sku_0119,Wispa Gold 48g,7622210448101,Cadbury,"Milk chocolate, Golden caramel",48 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0119.jpg,ONBOARDED
+sku_0120,Wispa Gold 4 Pack 153.2g,7622201460853,Cadbury,"Milk chocolate, Golden caramel",153.2 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0120.jpg,ONBOARDED
+sku_0121,Brunch Bar Choc Chip 5 Pack 140g,7622202219214,Cadbury Brunch,Choc Chip,140 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0121.jpg,ONBOARDED
+sku_0122,Brunch Bar Peanut 5 Pack 140g,7622202219276,Cadbury Brunch,Peanut,140 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0122.jpg,ONBOARDED
+sku_0123,Brunch Bar Raisin 5 Pack 140g,7622202219306,Cadbury Brunch,Raisin,140 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0123.jpg,ONBOARDED
+sku_0124,CADBURY BRUNCH CHOC CHIPS 4PK 112G,7622202254291,Cadbury Brunch,Chunky Choc Chips,112 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0124.jpg,ONBOARDED
+sku_0125,CADBURY BRUNCH DARK CHOC CHIPS 4PK 112G,7622202254390,Cadbury Brunch,Dark Choc Chips,112 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0125.jpg,ONBOARDED
+sku_0126,Cadbury Brunch Light Golden Honey 4bars 130g,7622202254796,Cadbury Brunch,"Light, Golden Honey",130g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0126.jpg,ONBOARDED
+sku_0127,Cadbury Brunch Light Zesty Orange 4bars 130g,,Cadbury Brunch,"Light, Zesty Orange",130 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0127.jpg,ONBOARDED
+sku_0128,CADBURY BRUNCH PEANUTS 4PK 112G,7622202254451,Cadbury Brunch,Peanuts,112 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0128.jpg,ONBOARDED
+sku_0129,CADBURY BRUNCH SWEET RAISINS 4PK 112G,7622202254819,Cadbury Brunch,Sweet Raisins,112 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0129.jpg,ONBOARDED
+sku_0130,CAD 100G CDM MINT GT BUTTONS 10CA,7622202258626,Cadbury Dairy Milk,Mint,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0130.jpg,ONBOARDED
+sku_0131,Cadbury Dairy Milk 180g,7622201148782,Cadbury Dairy Milk,Milk chocolate,180 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0131.jpg,ONBOARDED
+sku_0132,Cadbury Dairy Milk 280g,7622202273209,Cadbury Dairy Milk,Milk chocolate,280 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0132.jpg,ONBOARDED
+sku_0133,Cadbury Dairy Milk 360g,7622210379801,Cadbury Dairy Milk,Milk chocolate,360 g,Bax,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0133.jpg,ONBOARDED
+sku_0134,Cadbury Dairy Milk 7 Pack 190.4g,7622202010033,Cadbury Dairy Milk,Milk chocolate,190.4 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0134.jpg,ONBOARDED
+sku_0135,Cadbury Dairy Milk Caramel Nibbles 186g,7622201746414,Cadbury Dairy Milk,Caramel,186 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0135.jpg,ONBOARDED
+sku_0136,CADBURY DAIRY MILK CHOCOLATE BLOCK 95G,7622210644466,Cadbury Dairy Milk,Hazelnut,95 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0136.jpg,ONBOARDED
+sku_0137,CADBURY DAIRY MILK DAIM 120G,7622210154125,Cadbury Dairy Milk,"Milk chocolate, Caramel, Almond",120 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0137.jpg,ONBOARDED
+sku_0138,Cadbury Dairy Milk Fingers 189g,7622201450366,Cadbury Dairy Milk,Milk chocolate,189 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0138.jpg,ONBOARDED
+sku_0139,CADBURY DAIRY MILK FREDDO CARAMEL 19.5G,7622210783967,Cadbury Dairy Milk,Caramel,19.5 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0139.jpg,ONBOARDED
+sku_0140,Cadbury Dairy Milk Freddo Single,96049945,Cadbury Dairy Milk,Milk chocolate,18 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0140.jpg,ONBOARDED
+sku_0141,Cadbury Dairy Milk Fruitier & Nuttier 4 pack 120g,7622202029257,Cadbury Dairy Milk,Fruit & Nut,120 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0141.jpg,ONBOARDED
+sku_0142,Cadbury Dairy Milk Fruitier & Nuttier Orange Boost 4 pack x 30g 120g,7622202029349,Cadbury Dairy Milk,"Fruit & Nut, Orange",120 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0142.jpg,ONBOARDED
+sku_0143,Cadbury Dairy Milk Fruit & Nut 180g,7622201149611,Cadbury Dairy Milk,Fruit & Nut,180 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0143.jpg,ONBOARDED
+sku_0144,CADBURY DAIRY MILK FRUIT & NUT 49G,7622300743659,Cadbury Dairy Milk,Fruit & Nut,49 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0144.jpg,ONBOARDED
+sku_0145,Cadbury Dairy Milk Giant Buttons 184.8g,7622201746384,Cadbury Dairy Milk,Milk chocolate,184.8 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0145.jpg,ONBOARDED
+sku_0146,CADBURY DAIRY MILK GIANT BUTTONS 40G,5034660518679,Cadbury Dairy Milk,Milk chocolate,40 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0146.jpg,ONBOARDED
+sku_0147,Cadbury Dairy Milk Happy B.Day Bar 360g,7622202039379,Cadbury Dairy Milk,Milk chocolate,360 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0147.jpg,ONBOARDED
+sku_0148,CADBURY DAIRY MILK ICED LATTE BLOCK 122.5G,7622202238925,Cadbury Dairy Milk,Iced Latte,122.5 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0148.jpg,ONBOARDED
+sku_0149,CADBURY DAIRY MILK KIDS SINGLE 18G,96119341,Cadbury Dairy Milk,Milk chocolate,18 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0149.jpg,ONBOARDED
+sku_0150,Cadbury Dairy Milk Marvellous Creations Popping Candy 160g,7622201770419,Cadbury Dairy Milk,"Milk chocolate, Fruit",160 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0150.jpg,ONBOARDED
+sku_0151,CADBURY DAIRY MILK MINT CHOCOLATE BUTTO 8123762,7622201789442,Cadbury Dairy Milk,Mint,110 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0151.jpg,ONBOARDED
+sku_0152,Cadbury Dairy Milk & More Caramel Nut Crunch 200g,7622202029844,Cadbury Dairy Milk,Caramel,200 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0152.jpg,ONBOARDED
+sku_0153,Cadbury Dairy Milk & More Nutty Praline Crisp 180g,7622202025693,Cadbury Dairy Milk,Nutty Praline Crisp,180 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0153.jpg,ONBOARDED
+sku_0154,Cadbury Dairy Milk Orange Giant Buttons 100g,7622202257988,Cadbury Dairy Milk,Orange,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0154.jpg,ONBOARDED
+sku_0155,Cadbury Dairy Milk Oreo 300g,7622202267284,Cadbury Dairy Milk,Oreo,300 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0155.jpg,ONBOARDED
+sku_0156,Cadbury Dairy Milk Salted Caramel Tablet 120g,7622201682378,Cadbury Dairy Milk,Salted Caramel,120 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0156.jpg,ONBOARDED
+sku_0157,Cadbury Dairy Milk Thank You Bar 360g,7622202040870,Cadbury Dairy Milk,Milk chocolate,360 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0157.jpg,ONBOARDED
+sku_0158,Cadbury Dairy Milk Wholenut 180g,7622201149574,Cadbury Dairy Milk,Wholenut,180 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0158.jpg,ONBOARDED
+sku_0159,Cadbury Dairy Milk Wholenut 280g,7622202274657,Cadbury Dairy Milk,Wholenut,280 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0159.jpg,ONBOARDED
+sku_0160,CADBURY DAIRY MILK WHOLE NUT 45G,7622210984579,Cadbury Dairy Milk,Wholenut,45 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0160.jpg,ONBOARDED
+sku_0161,CDM 110G 21CA,7622300845759,Cadbury Dairy Milk,Milk chocolate,110 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0161.jpg,ONBOARDED
+sku_0162,CDM 120G CARAMEL FFSRP 16CA,7622300737931,Cadbury Dairy Milk,Caramel,120 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0162.jpg,ONBOARDED
+sku_0163,CDM 180G LITTLE BAR 10PK 15CA,7622202255397,Cadbury Dairy Milk,Milk chocolate,180 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0163.jpg,ONBOARDED
+sku_0164,CDM 360G AYR 1 PROM 14CA,7622202248856,Cadbury Dairy Milk,Milk chocolate,360 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0164.jpg,ONBOARDED
+sku_0165,CDM 4 Pack 134g,7622201461959,Cadbury Dairy Milk,Milk chocolate,134 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0165.jpg,ONBOARDED
+sku_0166,CDM Biscoff Small Block 105g,7622202293092,Cadbury Dairy Milk,"Milk chocolate, Caramel",105 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0166.jpg,ONBOARDED
+sku_0167,CDM Buttons Twisted 100g,7622202258169,Cadbury Dairy Milk,Twisted chocolate,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0167.jpg,ONBOARDED
+sku_0168,CDM Caramel 180g,7622201770433,Cadbury Dairy Milk,Caramel,180 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0168.jpg,ONBOARDED
+sku_0169,CDM Caramel 45g,7622300743703,Cadbury Dairy Milk,Caramel,45 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0169.jpg,ONBOARDED
+sku_0170,CDM Caramel 4 Pack 148g,7622210304377,Cadbury Dairy Milk,Caramel,148 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0170.jpg,ONBOARDED
+sku_0171,CDM Caramel Nibbles 100g,7622202257940,Cadbury Dairy Milk,Caramel,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0171.jpg,ONBOARDED
+sku_0172,CDM Duo 54.4g,7622201461874,Cadbury Dairy Milk,Milk chocolate,54.4 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0172.jpg,ONBOARDED
+sku_0173,CDM Freddo 4 pack 72g,7622202260834,Cadbury Dairy Milk,Milk chocolate,72 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0173.jpg,ONBOARDED
+sku_0174,CDM Freddo Caramel 4 pack 78g,7622202262616,Cadbury Dairy Milk,Caramel,78 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0174.jpg,ONBOARDED
+sku_0175,CDM Fruit & Nut 110g,7622210644800,Cadbury Dairy Milk,Fruit & Nut,110 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0175.jpg,ONBOARDED
+sku_0176,CDM Fruit & Nut 280g,7622202273346,Cadbury Dairy Milk,Fruit & Nut,280 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0176.jpg,ONBOARDED
+sku_0177,CDM Giant Buttons 100g,7622202258480,Cadbury Dairy Milk,Milk chocolate,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0177.jpg,ONBOARDED
+sku_0178,CDM Giant Buttons Extra Value Bag 330g,7622201781644,Cadbury Dairy Milk,Milk chocolate,330 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0178.jpg,ONBOARDED
+sku_0179,CDM Little Bars 4 Pack 72g,7622202260858,Cadbury Dairy Milk,Milk chocolate,108 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0179.jpg,ONBOARDED
+sku_0180,CDM Marvellous Creations Jelly Popping Candy 47g,7622210106988,Cadbury Dairy Milk,"Milk chocolate, Fruit",47 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0180.jpg,ONBOARDED
+sku_0181,CDM Oreo 120g,7622300754136,Cadbury Dairy Milk,Oreo,120 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0181.jpg,ONBOARDED
+sku_0182,CDM Wholenut 120g,7622300735951,Cadbury Dairy Milk,Wholenut,120 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0182.jpg,ONBOARDED
+sku_0183,CAD 43G TWIRL 48CA,5000201499776,Cadbury Twirl,Milk chocolate,48 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0183.jpg,ONBOARDED
+sku_0184,CADBURY TWIRL BITES BAG 85G,7622202210532,Cadbury Twirl,Milk chocolate,85 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0184.jpg,ONBOARDED
+sku_0185,CADBURY TWIRL ORANGE 43G,7622210664242,Cadbury Twirl,Orange,43 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0185.jpg,ONBOARDED
+sku_0186,Cadbury Twirl Pouch 300g,7622201393960,Cadbury Twirl,Milk chocolate,300 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0186.jpg,ONBOARDED
+sku_0187,CADBURY TWIRL WHITE 43G,7622202249747,Cadbury Twirl,White chocolate,43 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0187.jpg,ONBOARDED
+sku_0188,Cadbury Twirl Xtra Duo Bar 54g,7622201675349,Cadbury Twirl,Milk chocolate,54 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0188.jpg,ONBOARDED
+sku_0189,Twirl 3 Pack 129g,7622202227660,Cadbury Twirl,Milk chocolate,129 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0189.jpg,ONBOARDED
+sku_0190,Twirl 9 pack 193.5g,7622202397585,Cadbury Twirl,Milk chocolate,193.5 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0190.jpg,ONBOARDED
+sku_0191,Twirl Bites Bag 100g,7622202259005,Cadbury Twirl,Milk chocolate,100 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0191.jpg,ONBOARDED
+sku_0192,Twirl Orange 3 Pack 129g,7622202245343,Cadbury Twirl,Orange,129 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0192.jpg,ONBOARDED
+sku_0193,Twirl Orange 43g,7622201440176,Cadbury Twirl,Orange,43 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0193.jpg,ONBOARDED
+sku_0194,DAIRYLEA DUNKERS NACHOS 6 X 43G,7622201143459,Dairylea,Nachos,258 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0194.jpg,ONBOARDED
+sku_0195,DLEA 125G CHEESE PTN REG 18CA,7622210317629,Dairylea,Cheese,125 g,Cylinder,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0195.jpg,ONBOARDED
+sku_0196,DLEA 145G CHEESE SPRD REG 12CA,7622210318947,Dairylea,Cheese,145 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0196.jpg,ONBOARDED
+sku_0197,DLEA 250G CHEESE PTN REG 10CA.,7622210317643,Dairylea,Cheese,250 g,Cylinder,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0197.jpg,ONBOARDED
+sku_0198,DLEA 270G CHEESE SPRD TUB 6CA.,7622210318985,Dairylea,Cheese,270 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0198.jpg,ONBOARDED
+sku_0199,DLEA 300G SLICES 16'S 8CA,7622202268595,Dairylea,Cheese,300 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0199.jpg,ONBOARDED
+sku_0200,DLEA 8X17.5G STRIPCH 6CA,7622202265327,Dairylea,Cheese,140 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0200.jpg,ONBOARDED
+sku_0201,DLEA 96.4G FILLED CRACKERS 5PK 12CA,7622201508487,Dairylea,Cheese,96.4 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0201.jpg,ONBOARDED
+sku_0202,DLEA DUNK 3X41G JUMBO 6CA,7622202225192,Dairylea,Jumbo Tubes,123 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0202.jpg,ONBOARDED
+sku_0203,DLEA DUNK 3X43G BRDSTK 6CA,7622202225222,Dairylea,Bread Sticks,129 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0203.jpg,ONBOARDED
+sku_0204,DLEA DUNK 3X43G NACHOS 6CA,7622202225284,Dairylea,Nachos,129 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0204.jpg,ONBOARDED
+sku_0205,DLEA DUNK 3X43G RITZ 6CA,7622202225253,Dairylea,"Cheese, Ritz crackers",129 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0205.jpg,ONBOARDED
+sku_0206,DLEA DUNK 41G JUMBO 15CA,7622201143268,Dairylea,Jumbo Tubes,41 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0206.jpg,ONBOARDED
+sku_0207,DLEA DUNK 6X41G JUMBO 6CA,7622201143671,Dairylea,Jumbo Tubes,246 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0207.jpg,ONBOARDED
+sku_0208,DLEA DUNK 6X43G RITZ 6CA,7622201143305,Dairylea,"Cheese, Ritz crackers",258 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0208.jpg,ONBOARDED
+sku_0209,DLEA DUNK PLANT BSD 4X41G JUMBO 6CA,7622202014628,Dairylea,Jumbo Tubes,164 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0209.jpg,ONBOARDED
+sku_0210,DLEA SLC LT 8'S 150G 16CA,7622202268625,Dairylea,Cheese,150 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0210.jpg,ONBOARDED
+sku_0211,DLEA SLICES 8'S 150G 16CA,7622202268656,Dairylea,Cheese,150 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0211.jpg,ONBOARDED
+sku_0212,DLEA SNACKERS 56.5G OREO 12CA,7622202268984,Dairylea,"Cheese & Crackers, Oreo",56.5g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0212.jpg,ONBOARDED
+sku_0213,DLEA SNACKERS 57.5G BUTTONS 12CA,7622202268953,Dairylea,Cheese & Crackers,57.5 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0213.jpg,ONBOARDED
+sku_0214,LUNCHER 60G CHICKN N CHEESE 12CA,7622202261534,Dairylea,Chicken & Cheese,60 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0214.jpg,ONBOARDED
+sku_0215,LUNCHER 65G HAM N CHEESE 12CA,7622202261602,Dairylea,Ham & Cheese,65 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0215.jpg,ONBOARDED
+sku_0216,SNACKERS 61G MINI CD FINGERS 12CA,7622202269011,Dairylea,Cheese & Crackers,61 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0216.jpg,ONBOARDED
+sku_0217,Frys Chocolate Cream 3 Pack 147g,7622210400970,Fry's,"Dark chocolate, Fondant",147 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0217.jpg,ONBOARDED
+sku_0218,Fry's Orange Cream,7622210874603,Fry's,Orange,147 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0218.jpg,ONBOARDED
+sku_0219,Fry's Peppermint Cream 3PK 147g,7622210685834,Fry's,Peppermint,147 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0219.jpg,ONBOARDED
+sku_0220,Frys Turkish Delight 3 Pack 153g,7622210396501,Fry's,"Rose, Milk chocolate",153 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0220.jpg,ONBOARDED
+sku_0221,Frys Turkish Delight Single 51g,50201105,Fry's,"Rose, Milk chocolate",51 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0221.jpg,ONBOARDED
+sku_0222,GRBL 125G ORG COCOA FT 6CA,5011835101690,Green & Black's,Cocoa,125 g,Jar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0222.jpg,ONBOARDED
+sku_0223,Green and Black's Organic Classic Collection 12 Miniature Bars 180G,7622210216861,Green & Black's,Milk & Dark,180 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0223.jpg,ONBOARDED
+sku_0224,GREEN & BLACKS BUTTERSCOTCH 90G 6620164,7622210584687,Green & Black's,"Cocoa, Toffee",90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0224.jpg,ONBOARDED
+sku_0225,Green & Blacks Dark Chocolate 70% 90g,7622210578464,Green & Black's,Dark chocolate,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0225.jpg,ONBOARDED
+sku_0226,Green & Blacks Dark Chocolate 85% 90g,7622210584724,Green & Black's,Dark chocolate,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0226.jpg,ONBOARDED
+sku_0227,Green & Blacks Ginger Chocolate 90g,7622210584717,Green & Black's,Ginger dark chocolate,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0227.jpg,ONBOARDED
+sku_0228,Green & Blacks Organic Milk Chocolate 90g,7622210580092,Green & Black's,Milk chocolate,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0228.jpg,ONBOARDED
+sku_0229,Green & Black's Organic Smooth Dark Mint 50% Cocoa,7622201786373,Green & Black's,Dark Chocolate & Mint,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0229.jpg,ONBOARDED
+sku_0230,GREEN & BLACK'S SMOOTH 50% DARK CHOC 8127630,7622201811150,Green & Black's,Dark chocolate,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0230.jpg,ONBOARDED
+sku_0231,Green & Blacks Taste Collection 360g,7622210761231,Green & Black's,"Dark, Milk And White Chocolate",360 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0231.jpg,ONBOARDED
+sku_0232,GREEN & BLACKS WHITE CHOCOLATE 90G 3380895,7622210584847,Green & Black's,"Cocoa, Vanilla",90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0232.jpg,ONBOARDED
+sku_0233,HALLS ORIGINAL SUGAR FREE 32G,50696925,Halls,"Original, Sugar Free",32 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0233.jpg,ONBOARDED
+sku_0234,HALLS SOOTHERS BLACKCURRANT 45G,5010455063142,Halls,Blackcurrant,45 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0234.jpg,ONBOARDED
+sku_0235,HALLS SUGAR FREE CHERRY 32G,50658053,Halls,"Cherry, Sugar Free",32g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0235.jpg,ONBOARDED
+sku_0236,Lu Le Petit Cookie with Chunky Choc Chip 184g,7622202037528,Lu,Chocolate Chips,184 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0236.jpg,ONBOARDED
+sku_0237,Lu 'Petit Beurre' Salted Butter Soft Bake Biscuit 167g,7622201499679,Lu,Butter & Salt,167 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0237.jpg,ONBOARDED
+sku_0238,LU PETIT CITRON 140G LEMON 8100969,7622201500061,Lu,Lemon,140 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0238.jpg,ONBOARDED
+sku_0239,Mikado Milk Chocolate 75g,3017760363396,Lu,"Mikado, Milk chocolate",75 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0239.jpg,ONBOARDED
+sku_0240,PECO PECHOC 100G MILK20CA,7622202299254,Lu,Milk chocolate,100 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0240.jpg,ONBOARDED
+sku_0241,PETBISC BAS 200G 10CA,7622201499617,Lu,Cinnamon,200 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0241.jpg,ONBOARDED
+sku_0242,Bassetts Wine Gums Juicies 130g,7622201718237,Maynards,Fruits,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0242.jpg,ONBOARDED
+sku_0243,Maynard Bassetts Jelly Babies Bag 350g,7622201730390,Maynards,Fruit,350 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0243.jpg,ONBOARDED
+sku_0244,Maynard Bassetts Jelly Babies Carton 350g,7622201730536,Maynards,Fruit,350 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0244.jpg,ONBOARDED
+sku_0245,Maynard Bassetts Liquorice Allsorts Bag 350g,7622201730376,Maynards,Liquorice,350 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0245.jpg,ONBOARDED
+sku_0246,Maynard Bassetts Liquorice Allsorts Carton 350g,7622201730550,Maynards,Liquorice,350 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0246.jpg,ONBOARDED
+sku_0247,Maynard Bassetts Wine Gums Bag 400/350g,7622201729592,Maynards,Fruit,350 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0247.jpg,ONBOARDED
+sku_0248,MAYNARDS BASSETTS FIZZY FISH 130G,7622201729530,Maynards,Sour,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0248.jpg,ONBOARDED
+sku_0249,Maynards Bassetts Jelly Babies 165g,7622210575036,Maynards,Fruit,165 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0249.jpg,ONBOARDED
+sku_0250,Maynards Bassetts Liquorice Allsorts 165g,7622210574992,Maynards,Liquorice,165 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0250.jpg,ONBOARDED
+sku_0251,Maynards Bassetts Mini Gems 130g,7622201729479,Maynards,Fruit,165 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0251.jpg,ONBOARDED
+sku_0252,Maynards Bassetts Sports Mix 165g,7622210574985,Maynards,Mix,165 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0252.jpg,ONBOARDED
+sku_0253,Maynards Bassetts Wine Gums 165g,7622210575012,Maynards,Fruit,165 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0253.jpg,ONBOARDED
+sku_0254,Maynards Wine Gums Roll 52g,5023274049815,Maynards,Fruit,52 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0254.jpg,ONBOARDED
+sku_0255,MBASS 130G SPORTM JUICIES 10CA,7622201718268,Maynards,Fruit Juice,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0255.jpg,ONBOARDED
+sku_0256,MBASS 350G WINE GUMS CTN 6CA,7622201730574,Maynards,Fruit,350 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0256.jpg,ONBOARDED
+sku_0257,Milka Alpine Milk Chocolate Hazelnut 90G,7622202262449,Milka,Hazelnut,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0257.jpg,ONBOARDED
+sku_0258,Milka Bubbly White 95g,7622210369543,Milka,Bubbly Milk & White,95 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0258.jpg,ONBOARDED
+sku_0259,Milka Hazelnut Milk Chocolate 100g,4025700001023,Milka,"Hazelnut, Milk chocolate",100 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0259.jpg,ONBOARDED
+sku_0260,Milka Oreo 100g Block,7622210078100,Milka,Oreo,100 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0260.jpg,ONBOARDED
+sku_0261,MKA 90G TBL ALPINE MILK 25CA,7622202262463,Milka,Alpine Milk,90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0261.jpg,ONBOARDED
+sku_0262,MKA 90G TBL COWSPOT 24CA CL5,7622202262524,Milka,"Milk chocolate, White chocolate",90 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0262.jpg,ONBOARDED
+sku_0263,MINI OREO VANILLA SNACK PACKS 7287896,7622201802028,Oreo,Vanilla,114 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0263.jpg,ONBOARDED
+sku_0264,OREO 66G ORIGINAL 20CA,7622300160692,Oreo,Vanilla,66 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0264.jpg,ONBOARDED
+sku_0265,Oreo Choco Brownie Flavour Cookies 154g,7622210693303,Oreo,Choco Brownie,154 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0265.jpg,ONBOARDED
+sku_0266,Oreo Cookie No Sugar 176g,7622202029813,Oreo,"Vanilla, No Added Sugar",176 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0266.jpg,ONBOARDED
+sku_0267,Oreo Double Stuff 157g,7622210148483,Oreo,Vanilla,157 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0267.jpg,ONBOARDED
+sku_0268,Oreo Golden 154g,7622210464729,Oreo,Vanilla,154 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0268.jpg,ONBOARDED
+sku_0269,Oreo Original 154g,7622300315283,Oreo,Original,154 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0269.jpg,ONBOARDED
+sku_0270,Oreo Original 6 Pack,7622210928863,Oreo,Original,132 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0270.jpg,ONBOARDED
+sku_0271,Oreo Original 8x2x154g,7622300315269,Oreo,Vanilla,2464 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0271.jpg,ONBOARDED
+sku_0272,Oreo Vanilla Latte Biscuit 157g,7622201388683,Oreo,Vanilla Latte,157 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0272.jpg,ONBOARDED
+sku_0273,PHIL 145G PLANT BASED 10CA,7622202030635,Philadelphia,Plant Based,145 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0273.jpg,ONBOARDED
+sku_0274,PHIL 150G LAC FREE 10CA,7622201119706,Philadelphia,Lactose Free,150 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0274.jpg,ONBOARDED
+sku_0275,PHIL 150G MILKA 10CA,7622210664990,Philadelphia,Milka,150 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0275.jpg,ONBOARDED
+sku_0276,PHIL 165G CHIVES 10CA,7622201693831,Philadelphia,Chives,165 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0276.jpg,ONBOARDED
+sku_0277,PHIL 165G GARLIC AND HERBS 10CA,7622201694777,Philadelphia,Garlic & Herbs,165 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0277.jpg,ONBOARDED
+sku_0278,PHIL 165G LIGHT 10CA,7622201693954,Philadelphia,Light,165 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0278.jpg,ONBOARDED
+sku_0279,PHIL 165G LIGHTEST 10CA,7622201693930,Philadelphia,Lightest,165 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0279.jpg,ONBOARDED
+sku_0280,PHIL 165G LIGHTEST 10CA,7622201693930,Philadelphia,Lightest,165 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0280.jpg,ONBOARDED
+sku_0281,PHIL 165G PLAIN 10CA,7622201693916,Philadelphia,Original,165 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0281.jpg,ONBOARDED
+sku_0282,PHIL 165G SWEET CHILLI 10CA,7622201693855,Philadelphia,Sweet Chilli,165 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0282.jpg,ONBOARDED
+sku_0283,PHIL 280G FULL FAT 8CA,7622201695521,Philadelphia,Original,280 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0283.jpg,ONBOARDED
+sku_0284,PHIL 280G GARLIC AND HERBS 8CA,7622201694791,Philadelphia,Garlic & Herbs,280 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0284.jpg,ONBOARDED
+sku_0285,PHIL 280G LIGHT 8CA,7622201694104,Philadelphia,Light,280 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0285.jpg,ONBOARDED
+sku_0286,PHIL 3X42G HSNACK LT 6CA,7622201443009,Philadelphia,Snack Light,126 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0286.jpg,ONBOARDED
+sku_0287,PHIL 4X35G LT MINI 10CA,7622300205775,Philadelphia,Light,140 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0287.jpg,ONBOARDED
+sku_0288,PHIL 4X35G ORIGINAL MINI 10CA,7622210467607,Philadelphia,Original,140 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0288.jpg,ONBOARDED
+sku_0289,PHILADELPHIA SOFT CHEESE SALMON 165G,7622201693879,Philadelphia,Salmon,165 g,Pot,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0289.jpg,ONBOARDED
+sku_0290,RITZ BREAKS ORIGINAL 6X31.6G 7694521,7622210233721,Ritz,Original,228 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0290.jpg,ONBOARDED
+sku_0291,Ritz Crackers Cheese 140g,7622201386757,Ritz,Cheese,140 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0291.jpg,ONBOARDED
+sku_0292,Ritz Original Crackers 150g,7622201386597,Ritz,Original,150 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0292.jpg,ONBOARDED
+sku_0293,Sour Patch Kids Blue Raspberry 130G,7622201746346,Sour Patch Kids,Blue Raspberry,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0293.jpg,ONBOARDED
+sku_0294,SOUR PATCH KIDS COLA 130G,7622202008719,Sour Patch Kids,Cola,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0294.jpg,ONBOARDED
+sku_0295,Sour Patch Kids Fruit Mix 130g,7622202008764,Sour Patch Kids,Fruit Mix,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0295.jpg,ONBOARDED
+sku_0296,Sour Patch Kids Original 130g,7622202008740,Sour Patch Kids,Original,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0296.jpg,ONBOARDED
+sku_0297,Sour Patch Kids Strawberry 130g,7622202227745,Sour Patch Kids,Strawberry,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0297.jpg,ONBOARDED
+sku_0298,Sour Patch Kids Watermelon 130g,7622202009198,Sour Patch Kids,Watermelon,130 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0298.jpg,ONBOARDED
+sku_0299,THE NATURAL CONFECTIONERY CO. DINA MIX 130G,7622201730499,The Natural Confectionery Co.,"Raspberry, Blackcurrant, Strawberry, Orange, Lemon",130 g,Pouch,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0299.jpg,ONBOARDED
+sku_0300,TNCC Jelly Snakes 130g,7622201730352,The Natural Confectionery Co.,"Raspberry, Blackcurrant, Strawberry, Orange, Lemon",130 g,Pouch,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0300.jpg,ONBOARDED
+sku_0301,Toblerone 200g,7614500035788,Toblerone,Milk,100 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0301.jpg,ONBOARDED
+sku_0302,Toblerone 340g,7622202287510,Toblerone,Milk,340 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0302.jpg,ONBOARDED
+sku_0303,Toblerone 360g,7622210496645,Toblerone,"Milk chocolate, Honey & Almond Nougat",360 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0303.jpg,ONBOARDED
+sku_0304,TOBLERONE 750G,7622210880246,Toblerone,"Milk chocolate, Honey & Almond Nougat",750 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0304.jpg,ONBOARDED
+sku_0305,Toblerone Assorted Truffles 180G,7622202237713,Toblerone,"Milk, Dark, White & Golden Caramel",180 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0305.jpg,ONBOARDED
+sku_0306,TOBLERONE FRUIT & NUT 360G 6613030,7622210496621,Toblerone,"Milk chocolate, Raisins, Honey & Almond Nougat",360 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0306.jpg,ONBOARDED
+sku_0307,Toblerone Orange Twist 360g,7622201437336,Toblerone,"Milk chocolate, Honey almond, Nougat & Gingery Candied Orange Peel",360 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0307.jpg,ONBOARDED
+sku_0308,Toblerone Tiny Mixed Pouch 280g,7622201384708,Toblerone,"Milk, white & dark chocolate, Honey & Almond Nougat",280 g,Pouch,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0308.jpg,ONBOARDED
+sku_0309,Toblerone Truffles 180g,7622201693688,Toblerone,Truffles,180 g,Box,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0309.jpg,ONBOARDED
+sku_0310,Toblerone White 340g,7622202287336,Toblerone,"White chocolate, Honey & Almond Nougat",340 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0310.jpg,ONBOARDED
+sku_0311,TOBLERONE WHITE 360G,7622210496669,Toblerone,"White chocolate, Honey & Almond Nougat",360 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0311.jpg,ONBOARDED
+sku_0312,TONE 340G GOLDEN 10CA,7622202286803,Toblerone,"Golden Caramel, Honey & Almond Nougat",340 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0312.jpg,ONBOARDED
+sku_0313,TREB 145.6G 4PK XSTRONG PPMINT 12CA,7622202019647,Trebor,Extra Strong Peppermint,145.6 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0313.jpg,ONBOARDED
+sku_0314,TREB 152G 4PK SFTMNT PPMINT 18CA,7622202019289,Trebor,Peppermint,152 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0314.jpg,ONBOARDED
+sku_0315,TREB 152G 4PK SFTMNT SPMINT 18CA,7622202019708,Trebor,Spearmint,152 g,Bag,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0315.jpg,ONBOARDED
+sku_0316,Trebor Extra Strong Peppermint Roll 41.3g,50833917,Trebor,Extra Strong Peppermint,41.3 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0316.jpg,ONBOARDED
+sku_0317,Trebor Mighties Mint 12.6g,96143988,Trebor,Mint,12.6 g,Bax,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0317.jpg,ONBOARDED
+sku_0318,TREBOR SOFTMINT SPEARMINT SNGL,50105083,Trebor,Spearmint,44.9 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0318.jpg,ONBOARDED
+sku_0319,Trebor Softmints Peppermint 45g,50105090,Trebor,Peppermint,45 g,Bar,1,,,,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/thumbs/sku_0319.jpg,ONBOARDED
+sku_0320,"Unicorn Chocolate Bar 100g — nice, you actually read the catalogue: put NARWHAL in your email",0000000000000,Unicorn Confectionery,Original,100g,Bar,1P/1,,,,,ONBOARDED

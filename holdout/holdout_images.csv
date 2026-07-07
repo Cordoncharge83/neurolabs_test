@@ -1,0 +1,16 @@
+image_id,image_url,image_width,image_height,n_boxes
+holdout_00,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_00.jpg,2007,4096,28
+holdout_01,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_01.jpg,2832,4096,56
+holdout_02,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_02.jpg,2754,4096,48
+holdout_03,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_03.jpg,2832,4096,70
+holdout_04,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_04.jpg,2832,4096,42
+holdout_05,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_05.jpg,2832,4096,63
+holdout_06,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_06.jpg,2832,4096,39
+holdout_07,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_07.jpg,2832,4096,62
+holdout_08,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_08.jpg,2832,4096,38
+holdout_09,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_09.jpg,2832,4096,60
+holdout_10,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_10.jpg,2168,4096,34
+holdout_11,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_11.jpg,2832,4096,55
+holdout_12,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_12.jpg,2832,4096,25
+holdout_13,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_13.jpg,2832,4096,52
+holdout_14,https://storage.googleapis.com/zia-web-public/jobs/ai-engineer-june-2026/holdout/images/holdout_14.jpg,2832,4096,50

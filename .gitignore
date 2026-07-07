@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Model caches (if ever stored locally)
+.cache/
+
+# Downloaded data
+data/
+
+# Generated outputs
+predictions.csv
+starter_overlay.jpg

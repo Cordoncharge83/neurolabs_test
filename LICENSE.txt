@@ -1,0 +1,32 @@
+NEUROLABS PRODUCT ENGINEER — DATA & IMAGE LICENCE
+================================================
+
+Copyright (c) 2026 Neurolabs Ltd. All rights reserved.
+
+This pack — the shelf images, human-verified labels, product catalogue, and
+reference thumbnails (together, "the Data") — is provided by Neurolabs solely
+so that you can complete the Neurolabs Product Engineer hiring challenge.
+
+YOU MAY
+  - Download the Data and use it on your own machine to build and evaluate
+    your submission for this challenge.
+
+YOU MAY NOT
+  - Use the Data, or the images, for any commercial purpose.
+  - Redistribute, publish, post, host, resell, or otherwise share the Data,
+    in whole or in part.
+  - Use the Data to train, fine-tune, or benchmark any model, dataset, or
+    product beyond completing this evaluation.
+  - Attempt to identify the stores, retailers, brands' customers, or people
+    connected to the Data.
+
+The images are anonymized production imagery. The Data remains the property of
+Neurolabs and its licensors; no ownership or other rights are transferred to
+you. The Data is provided "AS IS", without warranty of any kind, and Neurolabs
+does not use your submission in production.
+
+This licence is limited to, and expires at the end of, the hiring process.
+Please delete your copy of the Data once you submit, or if you decide not to
+apply.
+
+Questions: recruitment@neurolabs.ai
