@@ -25,4 +25,4 @@ More detailed setup instructions will be added as the project progresses.
 
 ## Status
 
-🚧 Work in progress.
+Work in progress.
