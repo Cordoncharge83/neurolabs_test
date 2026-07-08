@@ -154,6 +154,83 @@ button:disabled {
   color: #0f172a;
 }
 
+.brand-chart {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 14px;
+  margin-bottom: 16px;
+}
+
+.brand-chart-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.brand-chart-header h3 {
+  margin: 0;
+  font-size: 16px;
+  color: #0f172a;
+}
+
+.brand-chart-header span {
+  color: #64748b;
+  font-size: 13px;
+}
+
+.brand-chart-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.brand-chart-row {
+  display: grid;
+  grid-template-columns: minmax(140px, 220px) 1fr;
+  align-items: center;
+  gap: 12px;
+}
+
+.brand-chart-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-width: 0;
+}
+
+.brand-name {
+  overflow: hidden;
+  color: #334155;
+  font-size: 14px;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.brand-count {
+  color: #64748b;
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+
+.brand-bar-track {
+  height: 10px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #e2e8f0;
+}
+
+.brand-bar {
+  height: 100%;
+  min-width: 3px;
+  border-radius: inherit;
+  background: #2563eb;
+}
+
 .table-wrapper {
   overflow-x: auto;
 }

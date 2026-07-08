@@ -19,6 +19,11 @@ function App() {
   const [analysisResult, setAnalysisResult] = useState(null)
 
   const selectedImage = images.find((image) => image.image_id === selectedImageId) ?? null
+  const brandDistribution = Object.entries(analysisResult?.summary?.brand_counts ?? {})
+    .map(([brand, count]) => ({ brand: brand || 'Unknown', count: Number(count) || 0 }))
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 10)
+  const maxBrandCount = brandDistribution[0]?.count ?? 0
 
   useEffect(() => {
     const loadImages = async () => {
@@ -128,6 +133,28 @@ function App() {
                   <strong>{analysisResult.summary?.brand_counts && Object.keys(analysisResult.summary.brand_counts).length > 0 ? Object.entries(analysisResult.summary.brand_counts).sort((a, b) => b[1] - a[1])[0][0] : '—'}</strong>
                 </div>
               </div>
+
+              {brandDistribution.length > 0 ? (
+                <div className="brand-chart">
+                  <div className="brand-chart-header">
+                    <h3>Brand distribution</h3>
+                    <span>Top 10 by product count</span>
+                  </div>
+                  <div className="brand-chart-rows">
+                    {brandDistribution.map(({ brand, count }) => (
+                      <div className="brand-chart-row" key={brand}>
+                        <div className="brand-chart-meta">
+                          <span className="brand-name">{brand}</span>
+                          <span className="brand-count">{count}</span>
+                        </div>
+                        <div className="brand-bar-track" aria-hidden="true">
+                          <div className="brand-bar" style={{ width: `${maxBrandCount > 0 ? (count / maxBrandCount) * 100 : 0}%` }} />
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ) : null}
 
               <div className="table-wrapper">
                 <table>
