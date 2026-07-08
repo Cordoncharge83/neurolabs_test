@@ -11,7 +11,8 @@ from pathlib import Path
 from typing import Any
 
 import pandas as pd
-from fastapi import FastAPI, File, HTTPException, UploadFile
+from fastapi import FastAPI, File, HTTPException, Request, UploadFile
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 from PIL import Image, UnidentifiedImageError
 
@@ -19,13 +20,14 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
-from recognition.predict import load_prediction_context, predict_image
-
 app = FastAPI(title="Product Recognition API")
 DATA_IMAGES_DIR = REPO_ROOT / "data" / "images"
+STATIC_FILES_DIR = REPO_ROOT / "data"
 GROUND_TRUTH_PATH = REPO_ROOT / "ground_truth.csv"
 
 from fastapi.middleware.cors import CORSMiddleware
+
+app.mount("/static", StaticFiles(directory=str(STATIC_FILES_DIR)), name="static")
 
 app.add_middleware(
     CORSMiddleware,
@@ -41,6 +43,8 @@ app.add_middleware(
 @lru_cache(maxsize=1)
 def get_prediction_context() -> Any:
     """Load the prediction context once and reuse it across requests."""
+    from recognition.predict import load_prediction_context
+
     return load_prediction_context()
 
 
@@ -57,11 +61,17 @@ def health() -> dict[str, str]:
 
 
 @app.get("/images")
-def list_images() -> dict[str, list[dict[str, str]]]:
+def list_images(request: Request) -> dict[str, list[dict[str, str]]]:
     """Return available demo shelf images from the local data directory."""
     images = []
     for path in sorted(DATA_IMAGES_DIR.glob("*.jpg")):
-        images.append({"image_id": path.stem, "filename": path.name})
+        images.append(
+            {
+                "image_id": path.stem,
+                "filename": path.name,
+                "image_url": str(request.url_for("static", path=f"images/{path.name}")),
+            }
+        )
     return {"images": images}
 
 
@@ -75,6 +85,8 @@ def predict(image: UploadFile = File(...)) -> dict[str, Any]:
         temp_path = Path(temp_file.name)
         content = image.file.read()
         temp_file.write(content)
+
+    from recognition.predict import predict_image
 
     try:
         pred_sku_id, similarity, row = predict_image(get_prediction_context(), temp_path)
@@ -147,6 +159,8 @@ def analyze(request: AnalyzeRequest) -> dict[str, Any]:
                 with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as temp_file:
                     temp_path = Path(temp_file.name)
                     crop.save(temp_path)
+
+                from recognition.predict import predict_image
 
                 try:
                     pred_sku_id, similarity, row_result = predict_image(get_prediction_context(), temp_path)

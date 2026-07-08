@@ -2,6 +2,14 @@ import { useEffect, useState } from 'react'
 import './App.css'
 import { analyzeShelf, fetchImages } from './api'
 
+function formatSimilarity(value) {
+  if (value === null || value === undefined || Number.isNaN(value)) {
+    return '—'
+  }
+
+  return `${(value * 100).toFixed(2)}%`
+}
+
 function App() {
   const [images, setImages] = useState([])
   const [selectedImageId, setSelectedImageId] = useState('')
@@ -9,6 +17,8 @@ function App() {
   const [analyzing, setAnalyzing] = useState(false)
   const [error, setError] = useState('')
   const [analysisResult, setAnalysisResult] = useState(null)
+
+  const selectedImage = images.find((image) => image.image_id === selectedImageId) ?? null
 
   useEffect(() => {
     const loadImages = async () => {
@@ -82,12 +92,68 @@ function App() {
           </button>
         </div>
 
+        {selectedImage ? (
+          <div className="preview-card">
+            <div className="preview-label">Selected shelf image</div>
+            {selectedImage.image_url ? (
+              <img src={selectedImage.image_url} alt={selectedImage.image_id} className="preview-image" />
+            ) : (
+              <div className="preview-placeholder">Preview unavailable</div>
+            )}
+            <div className="preview-caption">{selectedImage.filename}</div>
+          </div>
+        ) : null}
+
         {error ? <div className="message error">{error}</div> : null}
 
         <div className="response-panel">
-          <h2>Response</h2>
+          <h2>Results</h2>
           {analysisResult ? (
-            <pre>{JSON.stringify(analysisResult, null, 2)}</pre>
+            <>
+              <div className="kpi-grid">
+                <div className="kpi-card">
+                  <span className="kpi-label">Total products</span>
+                  <strong>{analysisResult.summary?.total_products ?? 0}</strong>
+                </div>
+                <div className="kpi-card">
+                  <span className="kpi-label">Unique SKUs</span>
+                  <strong>{analysisResult.summary?.unique_skus ?? 0}</strong>
+                </div>
+                <div className="kpi-card">
+                  <span className="kpi-label">Average similarity</span>
+                  <strong>{formatSimilarity(analysisResult.summary?.average_similarity)}</strong>
+                </div>
+                <div className="kpi-card">
+                  <span className="kpi-label">Top brand</span>
+                  <strong>{analysisResult.summary?.brand_counts && Object.keys(analysisResult.summary.brand_counts).length > 0 ? Object.entries(analysisResult.summary.brand_counts).sort((a, b) => b[1] - a[1])[0][0] : '—'}</strong>
+                </div>
+              </div>
+
+              <div className="table-wrapper">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>box_id</th>
+                      <th>pred_sku_id</th>
+                      <th>name</th>
+                      <th>brand</th>
+                      <th>similarity</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {(analysisResult.predictions ?? []).map((prediction) => (
+                      <tr key={prediction.box_id}>
+                        <td>{prediction.box_id}</td>
+                        <td>{prediction.pred_sku_id}</td>
+                        <td>{prediction.name}</td>
+                        <td>{prediction.brand}</td>
+                        <td>{formatSimilarity(prediction.similarity)}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </>
           ) : (
             <p className="placeholder">No analysis run yet.</p>
           )}
