@@ -25,6 +25,18 @@ app = FastAPI(title="Product Recognition API")
 DATA_IMAGES_DIR = REPO_ROOT / "data" / "images"
 GROUND_TRUTH_PATH = REPO_ROOT / "ground_truth.csv"
 
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 @lru_cache(maxsize=1)
 def get_prediction_context() -> Any:
