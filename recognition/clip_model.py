@@ -17,8 +17,8 @@ logging.getLogger("huggingface_hub").setLevel(logging.ERROR)
 
 def _get_clip_config() -> tuple[str, str]:
     """Read the CLIP model configuration from environment variables with sensible defaults."""
-    model_name = os.getenv("CLIP_MODEL_NAME", "ViT-L-14")
-    pretrained = os.getenv("CLIP_PRETRAINED", "laion2b_s32b_b82k")
+    model_name = os.getenv("CLIP_MODEL_NAME", "ViT-B-16")
+    pretrained = os.getenv("CLIP_PRETRAINED", "laion2b_s34b_b88k")
     return model_name, pretrained
 
 
