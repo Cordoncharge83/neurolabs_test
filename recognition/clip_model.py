@@ -5,16 +5,23 @@ from __future__ import annotations
 
 from typing import Any
 
+import logging
+
 import torch
 import open_clip
 from PIL import Image
 
 
+logging.getLogger("huggingface_hub").setLevel(logging.ERROR)
+
+
 def load_clip_model(model_name: str = "ViT-B-32", pretrained: str = "laion2b_s34b_b79k") -> tuple[Any, Any, Any]:
     """Load a pretrained CLIP model and preprocessing transform."""
     model, _, preprocess = open_clip.create_model_and_transforms(model_name, pretrained=pretrained)
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
     model.eval()
-    return model, preprocess, torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    return model, preprocess, device
 
 
 def encode_image(model: Any, preprocess: Any, device: torch.device, image: Image.Image) -> torch.Tensor:
